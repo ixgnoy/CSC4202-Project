@@ -22,9 +22,9 @@
 <body>
     <h3>Group name: Random</h3>
   <hr>
-  <h2><a href="https://github.com/ixgnoy/CSC4202-Project/blob/main/part_1_introduction.md">Part 1 – Introduction</a></h2>
+  <h2><a href="https://github.com/ixgnoy/CSC4202-Project/blob/main/part_1_introduction/README.md">Part 1 – Introduction</a></h2>
   <ul>
-    <li><a href="https://github.com/ixgnoy/CSC4202-Project/blob/main/1_Scenario_and_Problem.md">1.0 Scenario and Problem</a></li>
+    <li><a href="https://github.com/ixgnoy/CSC4202-Project/blob/main/part_1_introduction/1_Scenario_and_Problem.md">1.0 Scenario and Problem</a></li>
     <li><a href="https://github.com/ixgnoy/CSC4202-Project/blob/main/2_importance_of_optimal_solution.md">2.0 Importance of Optimal Solution</a></li>
     <li><a href="https://github.com/ixgnoy/CSC4202-Project/blob/main/3_algorithms_suitability_review.md">3.0 Algorithm Suitability Review</a></li>
   </ul>
