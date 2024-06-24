@@ -15,7 +15,7 @@
 <body>
   <h1>Algorithm Design Outline</h1>
   <hr>
-  <h2>Part 1 – Introduction</h2>
+  <h2 href="https://github.com/ixgnoy/CSC4202-Project/blob/main/part_1_introduction">Part 1 – Introduction</h2>
   <ul>
     <li>1.0 Scenario and Problem</li>
     <li>2.0 Importance of Optimal Solution</li>
