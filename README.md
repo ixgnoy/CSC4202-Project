@@ -42,7 +42,7 @@
       <ul>
         <li><a href="https://github.com/ixgnoy/CSC4202-Project/blob/main/part_2_algorithm_design/5_algorithm_design/5.1_overview.md">5.1 Overview</a></li>
         <li><a href="https://github.com/ixgnoy/CSC4202-Project/blob/main/part_2_algorithm_design/5_algorithm_design/5.2_delivery_prioritization_for_food_orders.md">5.2 Delivery Prioritization for Food Orders</a></li>
-        <li>5.3 Best Travelling Route</li>
+        <li><a href="https://github.com/ixgnoy/CSC4202-Project/blob/main/part_2_algorithm_design/5_algorithm_design/5.3_best_travelling_route.md">5.3 Best Travelling Route</a></li>
         <li>5.4 Example</li>
       </ul>
     </li>
