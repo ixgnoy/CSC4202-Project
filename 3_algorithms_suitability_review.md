@@ -84,7 +84,7 @@
 
 While sorting algorithms, Divide and Conquer (DAC), Dynamic Programming (DP), greedy algorithms, and graph algorithms each offer advantages, a holistic approach is crucial to address compromised food quality in food delivery platforms.  A combination of these algorithmic optimizations with real-time monitoring, quality control measures, and customer feedback systems is likely to yield a more comprehensive solution, ensuring the freshness and quality of delivered food.
 
-<p style="font-weight: bold; background-color: lightgreen;">Dijkstra's Algorithm: An Optimized Choice</p>
+<h2 style="font-weight: bold; background-color: lightgreen;">Dijkstra's Algorithm: An Optimized Choice</h2>
 
 
 Taking into account the aforementioned requirements, our company has selected Dijkstra's algorithm as the solution for optimizing food delivery routes.  Dijkstra's algorithm, which can be classified as both a greedy algorithm and a graph-based shortest path algorithm, excels at finding the most efficient routes while considering factors like distance, food type (potentially impacting quality during transport), and delivery time windows.  By implementing Dijkstra's algorithm, we can effectively optimize the order of deliveries, minimize overall delivery time, and prioritize time-sensitive deliveries.  This algorithm provides a systematic approach to identifying the shortest paths from the starting location to all delivery destinations, enabling efficient route planning and driver order assignments.
