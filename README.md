@@ -46,7 +46,7 @@
         <li><a href="https://github.com/ixgnoy/CSC4202-Project/blob/main/part_2_algorithm_design/5_algorithm_design/5.4_example.md">5.4 Example</a></li>
       </ul>
     </li>
-    <li>6.0 Algorithm Specification</li>
+    <li><a href="https://github.com/ixgnoy/CSC4202-Project/tree/main/part_2_algorithm_design/6_Algorithm_Specification">6.0 Algorithm Specification</a></li>
   </ul>
   <h2>Part 3 – Implementation of Algorithm</h2>
   <ul>
