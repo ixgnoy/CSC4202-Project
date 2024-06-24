@@ -24,7 +24,7 @@
   <hr>
   <h2><a href="https://github.com/ixgnoy/CSC4202-Project/blob/main/part_1_introduction">Part 1 – Introduction</a></h2>
   <ul>
-    <li>1.0 Scenario and Problem</li>
+    <li><a href="https://github.com/ixgnoy/CSC4202-Project/blob/main/1_Scenario_and_Problem.md">1.0 Scenario and Problem</a></li>
     <li>2.0 Importance of Optimal Solution</li>
     <li>3.0 Algorithm Suitability Review</li>
   </ul>
