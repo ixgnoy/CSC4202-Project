@@ -12,3 +12,6 @@ travel times between locations. The company aims to minimize the
 overall delivery time and cost while ensuring all deliveries are made
 within the given time constraints.
 
+Goal:
+1. truck's drivers maximum working hours is 10 hours.
+2. improve customer's experience (they will receive their packages within 10 hours after their packages are out for delivery)
