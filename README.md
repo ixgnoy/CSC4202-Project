@@ -2,12 +2,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Algorithm Design Outline</title>
-  <style>
-    h1 {
-      text-align: center;
-    }
-  </style>
 </head>
 <body>
   <h1>CSC4202-Project</h1>
@@ -23,7 +17,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Algorithm Design Outline</title>
+
 </head>
 <body>
     <h3>Group name: Random</h3>
