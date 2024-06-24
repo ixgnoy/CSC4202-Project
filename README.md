@@ -4,7 +4,7 @@
 - WOO HUI WERN 217189
 - LIM ZHI YING 217522
 
-## Table of Contents
+## <h2>Table of Contents</h2>
 <!DOCTYPE html>
 <html lang="en">
 <head>
