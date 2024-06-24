@@ -1,4 +1,4 @@
-<h1>Part 1: Introduction</h1>h1>
+<h1>Part 1: Introduction</h1>
 <h3></h3>Part 1 of the project focuses on</h3>
 
 - Introduce the scenario
