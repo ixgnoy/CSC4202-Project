@@ -52,7 +52,7 @@
   <ul>
     <li><a href="https://github.com/ixgnoy/CSC4202-Project/tree/main/part_3_implementation/7.0-coding">7.0 Coding</a></li>
       <ul>
-        <li>7.1 Algorithm Implementations</li>
+        <li><a href="https://github.com/ixgnoy/CSC4202-Project/blob/main/part_3_implementation/7.0-coding/7.1-algorithm-implementations.md">7.1 Algorithm Implementations</a></li>
         <li>7.2 Algorithm Descriptions</li>
         <li>7.3 Demonstration</li>
         <li>7.4 Results</li>
