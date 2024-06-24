@@ -38,9 +38,9 @@
         <li><a href="https://github.com/ixgnoy/CSC4202-Project/blob/main/part_2_algorithm_design/4_scenario_model_development/4.4_constrain_and_challenges.md">4.4 Constraints and Challenges</a></li>
       </ul>
     </li>
-    <li>5.0 Algorithm Design
+    <li><a href="https://github.com/ixgnoy/CSC4202-Project/blob/main/part_2_algorithm_design/5_algorithm_design/README.md">5.0 Algorithm Design</a></li>
       <ul>
-        <li>5.1 Overview</li>
+        <li><a href="https://github.com/ixgnoy/CSC4202-Project/blob/main/part_2_algorithm_design/5_algorithm_design/5.1_overview.md">5.1 Overview</a></li>
         <li>5.2 Delivery Prioritization for Food Orders</li>
         <li>5.3 Best Travelling Route</li>
         <li>5.4 Example</li>
