@@ -13,7 +13,7 @@
   <title>Algorithm Design Outline</title>
 </head>
 <body>
-  <h1>Algorithm Design Outline</h1>
+    
   <hr>
   <h2><a href="https://github.com/ixgnoy/CSC4202-Project/blob/main/part_1_introduction">Part 1 – Introduction</a></h2>
   <ul>
