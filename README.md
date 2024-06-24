@@ -59,7 +59,7 @@
         <li><a href="https://github.com/ixgnoy/CSC4202-Project/tree/main/part_3_implementation/7.0-coding/7.5-analysis-of-algorithm">7.5 Analysis of Algorithms</a></li>
         <ul>
           <li><a href="https://github.com/ixgnoy/CSC4202-Project/blob/main/part_3_implementation/7.0-coding/7.5-analysis-of-algorithm/7.5.1-correctness-of-the-algorithm.md">7.5.1 Correctness of the Algorithm</a></li>
-          <li>7.5.2 Time Complexity Analysis</li>
+          <li><a href="https://github.com/ixgnoy/CSC4202-Project/blob/main/part_3_implementation/7.0-coding/7.5-analysis-of-algorithm/7.5.2-time-complexity-analysis.md">7.5.2 Time Complexity Analysis</a></li>
         </ul>
       </ul>
     </li>
