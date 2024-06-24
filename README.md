@@ -1,4 +1,4 @@
-# <h1 align="center">CSC4202-Project</h1>
+# <h1 align="center">🍰🍟🍕 CSC4202-Project 🚚🛵🚗</h1>
 <!DOCTYPE html>
 <html lang="en">
 <head>
