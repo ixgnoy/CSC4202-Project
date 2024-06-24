@@ -1,17 +1,14 @@
 <h3>1.0 Scenario and Problem:</h3>
 
-A delivery company operates a fleet of vehicles to deliver packages to
-various locations within a city. The company needs to schedule
-deliveries from a central warehouse to multiple destinations, each
-with specific time windows during which the delivery must be made.
-Each vehicle has a maximum capacity and incurs operating costs
-based on distance travelled and time spent.
+Company Grxb,  a Southeast Asian super-app, has revolutionized daily life across the region.  They offer a one-stop shop for services like ride-hailing, food and grocery delivery, mobile payments, and financial services.  This comprehensive strategy, along with their team of talented professionals, has solidified Grab as a leader in driving economic empowerment and innovation throughout Southeast Asia.
 
-The road network in the city is well-defined, with known distances and
-travel times between locations. The company aims to minimize the
-overall delivery time and cost while ensuring all deliveries are made
-within the given time constraints.
+Recognizing a gap in the food delivery market, Company Grxb leveraged extensive customer research to identify key pain points. Their findings revealed a significant concern surrounding the quality of delivered food, particularly for temperature-sensitive items like ice cream and cold beverages.
 
-Goal:
-1. truck's drivers maximum working hours is 10 hours.
-2. improve customer's experience (they will receive their packages within 10 hours after their packages are out for delivery)
+Customer feedback from existing food delivery platforms highlights dissatisfaction with delivery prioritization. A common concern arises when drivers manage multiple orders across varying distances. To maximize efficiency and accept more deliveries, drivers might prioritize the closest destinations first. While this approach optimizes driver workload, it often compromises food quality. Customers have voiced frustration receiving cold, melted, or spoiled food due to the prioritization of speed and distance over temperature-sensitive items. As evidenced by a review on a competitor's platform (Company Foodpxndx), a user expressed dissatisfaction stating, "What's the point of fast delivery if my ice cream cake arrives ruined?"
+
+Inefficient route planning within food delivery platforms can have a cascading negative effect. Delayed deliveries stemming from poor route optimization directly impact customer satisfaction. Disgruntled customers are more likely to share negative experiences, potentially damaging the platform's reputation and eroding trust. Furthermore, compromised food quality due to delays can lead to financial losses for the platform through refunds and decreased customer retention. This can also cause dissatisfaction among restaurant partners who rely on the platform to deliver their food fresh and in good condition.
+
+Recognizing the limitations of current food delivery models, Company Grxb prioritizes algorithm-driven route optimization and order assignment. Their intelligent algorithm considers factors like delivery distance and food composition to determine the optimal delivery sequence and route for each driver. This data-driven approach aims to maximize operational efficiency while ensuring food quality and timeliness, ultimately enhancing customer satisfaction.
+
+Company Grxb's optimized algorithm is a two-pronged approach designed to elevate customer experience and solidify market leadership. Firstly, it prioritizes minimizing delivery distance and ensuring food integrity. By assigning drivers efficient routes, Company Grxb aims to enhance customer satisfaction by delivering food quickly and in optimal condition. Secondly, this approach differentiates them from competitors. By optimizing delivery operations, Company Grxb seeks to establish a strong reputation for efficiency and reliability in the food delivery industry. This will ultimately translate to customer loyalty, attracting more restaurant partners, and positioning them as a top-tier platform that prioritizes speed, quality, and customer satisfaction.
+
