@@ -4,7 +4,7 @@
 <head>
 </head>
 <body>
-  <h1>CSC4202-Project</h1>
+  <h1>Food Delivery</h1>
   
   ## Group Members
   - WONG YONG XI 217176
