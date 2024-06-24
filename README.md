@@ -26,7 +26,7 @@
   <ul>
     <li><a href="https://github.com/ixgnoy/CSC4202-Project/blob/main/1_Scenario_and_Problem.md">1.0 Scenario and Problem</a></li>
     <li><a href="https://github.com/ixgnoy/CSC4202-Project/blob/main/2_importance_of_optimal_solution.md">2.0 Importance of Optimal Solution</a></li>
-    <li>3.0 Algorithm Suitability Review</li>
+    <li><a href="https://github.com/ixgnoy/CSC4202-Project/blob/main/3_algorithms_suitability_review.md">3.0 Algorithm Suitability Review</a></li>
   </ul>
   <h2>Part 2 – Algorithm Design</h2>
   <ul>
