@@ -34,7 +34,7 @@
       <ul>
         <li><a href="https://github.com/ixgnoy/CSC4202-Project/blob/main/part_2_algorithm_design/4_scenario_model_development/4.1_overview.md">4.1 Overview</a></li>
         <li><a href="https://github.com/ixgnoy/CSC4202-Project/blob/main/part_2_algorithm_design/4_scenario_model_development/4.2-delivery-prioritization-for-food-orders.md">4.2 Delivery Prioritization for Food Orders</a></li>
-        <li>4.3 Best Travelling Route</li>
+        <li><a href="https://github.com/ixgnoy/CSC4202-Project/blob/main/part_2_algorithm_design/4_scenario_model_development/4.3_best_travelling_route.md">4.3 Best Travelling Route</a></li>
         <li>4.4 Constraints and Challenges</li>
       </ul>
     </li>
