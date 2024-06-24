@@ -47,12 +47,11 @@
       <ul>
         <li>7.1 Algorithm Implementations</li>
         <li>7.2 Algorithm Descriptions</li>
+        <li>7.3 Demonstration</li>
+        <li>7.4 Results</li>
+        <li>7.5 Analysis of Algorithms</li>
       </ul>
     </li>
-    <li>7.3 Demonstration</li>
-    <li>7.4 Results</li>
-    <li>7.5 Analysis of Algorithms</li>
-  </ul>
 </body>
 </html>
 
