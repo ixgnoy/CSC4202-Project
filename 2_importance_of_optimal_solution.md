@@ -1,4 +1,4 @@
-<h3>2.0 Importance of Optimal Solution</h3>
+<h2>2.0 Importance of Optimal Solution</h2>
 
 Finding an optimal solution for this food delivery algorithm is crucial for several reasons:
 
