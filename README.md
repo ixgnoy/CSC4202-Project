@@ -55,7 +55,7 @@
         <li><a href="https://github.com/ixgnoy/CSC4202-Project/blob/main/part_3_implementation/7.0-coding/7.1-algorithm-implementations.md">7.1 Algorithm Implementations</a></li>
         <li><a href="https://github.com/ixgnoy/CSC4202-Project/blob/main/part_3_implementation/7.0-coding/7.2-algorithm-descriptions.md">7.2 Algorithm Descriptions</a></li>
         <li><a href="https://github.com/ixgnoy/CSC4202-Project/blob/main/part_3_implementation/7.0-coding/7.3-demonstration.md">7.3 Demonstration</a></li>
-        <li><a href="https://github.com/ixgnoy/CSC4202-Project/blob/main/part_3_implementation/7.0-coding/7.4-results.md">7.4 Results</a>a</li>
+        <li><a href="https://github.com/ixgnoy/CSC4202-Project/blob/main/part_3_implementation/7.0-coding/7.4-results.md">7.4 Results</a></li>
         <li>7.5 Analysis of Algorithms</li>
       </ul>
     </li>
