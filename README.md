@@ -30,9 +30,9 @@
   </ul>
   <h2><a href="https://github.com/ixgnoy/CSC4202-Project/blob/main/part_2_algorithm_design.md">Part 2 – Algorithm Design</a></h2>
   <ul>
-    <li>4.0 Model Development of the Scenario
+    <li><a href="https://github.com/ixgnoy/CSC4202-Project/blob/main/part_2_algorithm_design/README.md">4.0 Model Development of the Scenario</a></li>
       <ul>
-        <li>4.1 Overview</li>
+        <li><a href="https://github.com/ixgnoy/CSC4202-Project/blob/main/part_2_algorithm_design/4_scenario_model_development/4.1_overview.md">4.1 Overview</a></li>
         <li>4.2 Delivery Prioritization for Food Orders</li>
         <li>4.3 Best Travelling Route</li>
         <li>4.4 Constraints and Challenges</li>
