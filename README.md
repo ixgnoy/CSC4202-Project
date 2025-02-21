@@ -6,10 +6,8 @@
 <body>
   <h1>Food Delivery</h1>
   
-  ## Group Members
-  - WONG YONG XI 217176
-  - WOO HUI WERN 217189
-  - LIM ZHI YING 217522
+  ## Programming Language: Java
+  (Can refer to part_3_implementation/7.0-coding)
 
   ## Table of Contents
 <!DOCTYPE html>
