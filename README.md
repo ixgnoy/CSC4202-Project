@@ -18,7 +18,6 @@
 
 </head>
 <body>
-    <h3>Group name: Random</h3>
   <hr>
   <h2><a href="https://github.com/ixgnoy/CSC4202-Project/blob/main/part_1_introduction/README.md">Part 1 – Introduction</a></h2>
   <ul>
