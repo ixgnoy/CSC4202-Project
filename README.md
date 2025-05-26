@@ -1,13 +1,66 @@
-# <h1 align="center">🍰🍟🍕 CSC4202-Project 🚚🛵🚗</h1>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-</head>
-<body>
-  <h1>Food Delivery</h1>
-  
-  ## Programming Language: Java
-  (Can refer to part_3_implementation/7.0-coding)
+# 🍔 Food Delivery Optimization System
+
+*Java-based algorithmic solution to prioritize food orders and find the most efficient delivery routes.*
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Project Status](https://img.shields.io/badge/status-Completed-brightgreen?style=for-the-badge)
+![Lines of Code](https://img.shields.io/tokei/lines/github/ixgnoy/CSC3402-Project?style=for-the-badge)
+![Last Commit](https://img.shields.io/github/last-commit/ixgnoy/CSC3402-Project?style=for-the-badge)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ixgnoy.CSC3402-Project)
+
+---
+
+## 🗂 Table of Contents
+
+### 📖 Part 1 – Introduction
+- 1.0 Scenario and Problem  
+- 2.0 Importance of Optimal Solution  
+- 3.0 Algorithm Suitability Review  
+
+### 🧠 Part 2 – Algorithm Design
+- 4.0 Model Development of the Scenario  
+  - 4.1 Overview  
+  - 4.2 Delivery Prioritization for Food Orders  
+  - 4.3 Best Travelling Route  
+  - 4.4 Constraints and Challenges  
+- 5.0 Algorithm Design  
+  - 5.1 Overview  
+  - 5.2 Delivery Prioritization for Food Orders  
+  - 5.3 Best Travelling Route  
+  - 5.4 Example  
+- 6.0 Algorithm Specification  
+
+### 💻 Part 3 – Implementation of Algorithm
+- [7.0 Coding](part_3_implementation/7.0-coding)  
+- 7.1 Algorithm Implementations  
+- 7.2 Algorithm Descriptions  
+- 7.3 Demonstration  
+- 7.4 Results  
+- 7.5 Analysis of Algorithms  
+  - 7.5.1 Correctness of the Algorithm  
+  - 7.5.2 Time Complexity Analysis  
+
+---
+
+## 🧰 Tech Stack
+
+- ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+- Algorithm Design
+- Problem Solving
+- Time & Space Complexity Analysis
+
+---
+
+### ✍️ Notes
+This project focuses on building **an optimal food delivery algorithm** using Java. It simulates order prioritization, route efficiency, and applies time complexity analysis for benchmarking algorithm performance.
+
+---
+
+### 🚀 How to Run
+```bash
+javac FoodDelivery.java
+java FoodDelivery
+```
 
   ## Table of Contents
 <!DOCTYPE html>
